@@ -50,17 +50,17 @@ const Navbar = () => {
             <div class="hidden w-full md:block md:w-auto" id="mobile-menu">
               <div class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
                 <Link to="/login">
-                  <p class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 ">
+                  <p class="block py-2 pr-4 pl-3 text-dark rounded md:bg-transparent md:text-dark md:p-0 ">
                     Login
                   </p>
                 </Link>
                 <Link to="/signup">
-                  <p class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 ">
+                  <p class="block py-2 pr-4 pl-3 text-dark rounded md:bg-transparent md:text-dark md:p-0 ">
                     SignUp
                   </p>
                 </Link>
                 <Link to="/user-profile">
-                  <p class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 ">
+                  <p class="block py-2 pr-4 pl-3 text-dark rounded md:bg-transparent md:text-dark md:p-0 ">
                     Profile
                   </p>
                 </Link>

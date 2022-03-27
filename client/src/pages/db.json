@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Yashdeep Patwa",
+    "email": "yashpatwa1602@gmail.com",
+    "description": "SOFTWARE DEVELOPER",
+    "avatar": "src/assets/img/yashimg.jpg",
+    "upvotes": 100,
+    "downvotes": 10
+  },
+  {
+    "name": "Sidharth kumar",
+    "email": "sidkumar66@gmail.com",
+    "description": "WEB DEVELOPER",
+    "avatar": "src/assets/img/sidimg.jpg",
+    "upvotes": 89,
+    "downvotes": 5
+  }
+]

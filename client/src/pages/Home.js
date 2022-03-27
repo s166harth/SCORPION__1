@@ -14,7 +14,12 @@ export const Home = () => {
             Social Platform for <br /> Developers
           </p>
 
-          <a className="text-xl underline mt-4" href="/scorpian-page">Find Developers now</a>
+          <a
+            className="text-xl text-[#01befe] font-semibold underline mt-4"
+            href="/scorpian-page"
+          >
+            Find Developers now
+          </a>
         </div>
       </div>
     </div>

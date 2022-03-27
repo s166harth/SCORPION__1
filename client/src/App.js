@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 // Components
 import { Home } from "./pages/Home.js";
 import UserProfile from "./pages/UserProfile.js";
-import { ScorpianPage } from "./pages/ScorpianPage.js";
+import { ScorpianPage } from "./pages/profiles/ScorpianPage.js";
 import { Login } from "./common/Login.js";
 import { SignUp } from "./common/SignUp.js";
 

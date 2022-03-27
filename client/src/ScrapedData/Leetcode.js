@@ -29,7 +29,7 @@ const Leetcode = () => {
     return (
       <div>
         Leetcode
-        <p>{data.acSubmissionNum[0].count}</p>
+        {/* <p>{data.acSubmissionNum[0].count}</p> */}
       </div>
     );
 };
